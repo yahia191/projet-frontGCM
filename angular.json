@@ -24,7 +24,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "./node_modules/bootstrap/dist/css/bootstrap.css"
             ],
             "scripts": []
           },
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "frontcgm2"
+    }
+  },
+  "defaultProject": "frontcgm2",
+  "cli": {
+    "analytics": "2b67c694-d840-4273-9651-23ced8565dc7"
+  }
 }
